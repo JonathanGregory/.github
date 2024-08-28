@@ -1,1 +1,1 @@
-# .github
+@JonathanGregory's GitHub organization
